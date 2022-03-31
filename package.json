@@ -1,0 +1,21 @@
+{
+  "name": "JWT-validation-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ioredis": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.4.1",
+    "node-input-validator": "^4.5.0",
+    "redis": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
