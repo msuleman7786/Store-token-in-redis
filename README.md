@@ -1,6 +1,4 @@
 # Store JWT token in redis and expire after some time
-SlashRTC 3 tasks
-
 
           // Enter this command in redis-cli once token generate and store in redis to expire the token
 1. set token ""
